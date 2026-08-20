@@ -94,7 +94,7 @@
 
         default_layer {
             bindings = <
-&lt 5 ESC  &kp LC(UP)     &mkp MB1
+&lt 5 ESC  &kp RC(UP)     &mkp MB1
 &mkp MB2   &pmw_rotation  &mo 6
             >;
         };
